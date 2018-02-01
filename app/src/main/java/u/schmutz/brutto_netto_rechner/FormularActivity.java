@@ -55,6 +55,7 @@ public class FormularActivity extends Activity {
         }
 
         // Prozent Umsatzsteuer:
+        // Neuer Eintrag für Git-Test
         final Spinner spinner =
                 (Spinner) findViewById(R.id.sp_umsatzsteuer);
         final int pos = spinner.getSelectedItemPosition();
