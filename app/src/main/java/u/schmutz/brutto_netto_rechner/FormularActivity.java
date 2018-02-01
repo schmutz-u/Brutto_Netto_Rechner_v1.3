@@ -30,6 +30,7 @@ public class FormularActivity extends Activity {
 
     public void onClickBerechnen(android.view.View button){
         // Betrag:
+        // Hier ein Testeintrag nur für Git
         final EditText txtBetrag =
                 (EditText) findViewById(R.id.edt_betrag);
         final String tmpBetrag =
